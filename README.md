@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Banzly/Banzly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Banzly/Banzly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on My GitHub profile.
 
-Here are some ideas to get you started:
+Here My site : banzly.github.io
 
 - 🔭 I’m currently working on Study
 - 🌱 I’m currently learning CyberSecurity Enthusiast And Web Development
