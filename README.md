@@ -6,7 +6,7 @@
 Here My site : banzly.github.io
 
 - 🔭 I’m currently working on Study
-- 🌱 I’m currently learning CyberSecurity Enthusiast And Web Development
+- 🌱 I’m currently learning CyberSecurity Enthusiast And Linux
 - 🤔 I’m looking for help with Google
 - 💬 Ask me about Nothing Interst
 - 📫 How to reach me: ctrlx0183@gmail.com
